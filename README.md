@@ -18,4 +18,4 @@ order: 1
 * [cite_start]**Systems Biology:** Applying dynamical modelling to biological systems[cite: 14].
 * [cite_start]**Immunometabolism:** Investigating cellular adaptation to stress[cite: 17].
 
-[View My Research & CV](/research/)
+[View My Research & CV](/research/research.md)

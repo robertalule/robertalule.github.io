@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Research & CV
-permalink: /research/
+permalink: /research/research.md
 order: 2
 ---
-
+---
 ## 🎓 Education
 
 **MSc in Biochemistry** (Enrolled 2025/2026)

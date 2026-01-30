@@ -18,4 +18,4 @@ I am a results-driven researcher dedicated to creating and improving products fo
 * **Systems Biology:** Applying dynamical modelling to biological systems.
 * **Immunometabolism:** Investigating cellular adaptation to stress.
 
-[View My Research & CV](/research/research.md)
+[View My Research & CV](/research/)

@@ -1,5 +1,6 @@
+theme: minima
 title: Alule Robert
-description: Biochemistry Student & Researcher
-theme: jekyll-theme-minimal
-show_downloads: false
-google_analytics:
+author: Alule Robert
+email: contact@alulerobert.me
+description: "Biochemistry |Host-Pathogen Interactions | Cellular and Molecular Mechanisms of Diseas | Malaria Research"
+show_excerpts: true

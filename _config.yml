@@ -2,5 +2,12 @@ theme: minima
 title: Alule Robert
 author: Alule Robert
 email: contact@alulerobert.me
-description: "Biochemistry |Host-Pathogen Interactions | Cellular and Molecular Mechanisms of Diseas | Malaria Research"
+description: >-
+  MSc Biochemistry Student & Educator. Researching Host-Pathogen Interactions,
+  Systems Biology, and Malaria in Uganda. Skilled in Python, R, and Biological Data Analysis.
 show_excerpts: true
+
+# Social settings (These add icons to your footer)
+github_username: robertalule
+twitter_username:  AluleRobert
+linkedin_username: AluleRobert

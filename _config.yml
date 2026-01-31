@@ -5,10 +5,10 @@ email: contact@alulerobert.me
 description: >-
   MSc Biochemistry Student & Educator. Researching Host-Pathogen Interactions,
   Systems Biology, and Malaria in Uganda. Skilled in Python, R, and Biological Data Analysis.
-show_excerpts: true
+show_excerpts: false
 
 # Social settings (These add icons to your footer)
 github_username: robertalule
 twitter_username:  AluleRobert
 linkedin_username: AluleRobert
-email_username: contact@alulerobert.me
+email: contact@alulerobert.me

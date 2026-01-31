@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Me
+title: Alule Robert
 order: 1
 ---
 

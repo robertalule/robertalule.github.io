@@ -54,3 +54,7 @@ order: 1
 * **Chemical Biology** (University of Geneva, 2025)
 * **Dynamical Modelling Methods for Systems Biology** (Icahn School of Medicine, 2025)
 * **Biology Research Job Simulation** (LifeArc, 2024)
+
+header_pages:
+  - index.md
+  - research.md

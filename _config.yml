@@ -1,13 +1,20 @@
 theme: minima
-title: Welcome To My Site!
+title: Alule Robert
 author: Alule Robert
 email: contact@alulerobert.me
 description: >-
-  MSc Biochemistry Student & Educator. Researching Host-Pathogen Interactions,
-  Systems Biology, and Malaria in Uganda. Skilled in Python, R, and Biological Data Analysis.
+  MSc Biochemistry student and biological sciences educator.
+  Research interests include: 
+  * Host–pathogen interactions,
+  * Systems biology,
+  * Neglected Tropical Pathogens.
+  Experience with Python, R, and biological data analysis.
 show_excerpts: true
 
 # Social settings (These add icons to your footer)
 github_username: robertalule
 twitter_username:  AluleRobert
 linkedin_username: AluleRobert
+
+minima:
+  skin: classic

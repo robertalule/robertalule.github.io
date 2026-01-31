@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Alule Robert
+title: 🎓 Alule Robert
 order: 1
 ---
 

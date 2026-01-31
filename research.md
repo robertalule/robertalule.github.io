@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research & CV
+title: 📄 Research & CV
 permalink: /research/
-order: 1
+order: 2
 ---
 
 ## 🎓 Education

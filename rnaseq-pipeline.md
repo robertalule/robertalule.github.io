@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "RNA-Seq Pipeline: From Raw Reads to Gene Counts"
+title: "RNA-Seq Pipeline"
 permalink: /rnaseq-pipeline/
 order: 3
 ---

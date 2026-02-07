@@ -54,3 +54,18 @@ order: 2
 * **Chemical Biology** (University of Geneva, 2025)
 * **Dynamical Modelling Methods for Systems Biology** (Icahn School of Medicine, 2025)
 * **Biology Research Job Simulation** (LifeArc, 2024)
+
+---
+
+## 🧬 Research Workflows & Technical Notes
+
+I document selected computational and bioinformatics workflows that I actively use and maintain. These notes are written as reproducible, educational references and reflect my hands-on analysis work.
+
+* **RNA-Seq Analysis Pipeline (Linux-based):**  
+  From raw FASTQ files to gene-level count matrices, including quality control, trimming, splice-aware alignment, and read quantification.  
+  → [View RNA-Seq Pipeline]( /rnaseq-pipeline/ )
+
+* **Differential Expression Analysis with DESeq2 (R/Bioconductor):**  
+  Statistical modeling and interpretation of RNA-Seq count data.  
+  → *(Coming soon)*
+
